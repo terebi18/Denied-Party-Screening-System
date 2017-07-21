@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Denied Party Screening System">bcfed8550fcc0740b64a00dce1050e4f</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Denied Parties Listings</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_hgst2_denied_par_denied_parties_listing</name>
+        <order>500</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_hgst2_denied_par_denied_parties_listing_user,x_hgst2_denied_par.dpl_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+        <sys_created_on>2017-07-18 01:41:28</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>f8fed8550fcc0740b64a00dce1050e50</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Denied Parties Listings</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Denied Party Screening System" source="x_hgst2_denied_par">b3ebdcd10fcc0740b64a00dce1050e08</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Denied Party Screening System">b3ebdcd10fcc0740b64a00dce1050e08</sys_scope>
+        <sys_update_name>sys_app_module_f8fed8550fcc0740b64a00dce1050e50</sys_update_name>
+        <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+        <sys_updated_on>2017-07-21 02:21:20</sys_updated_on>
+        <timeline_page/>
+        <title>Denied Parties Listings</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="scheduled_import_set">
+    <scheduled_import_set action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <data_source display_value="denial.csv (Uploaded)">0ff7f0dd0fcc0740b64a00dce1050e4f</data_source>
+        <map/>
+        <name>Denied Parties List Import</name>
+        <order/>
+        <parent/>
+        <post_script/>
+        <post_script_bool>false</post_script_bool>
+        <pre_script/>
+        <pre_script_bool>false</pre_script_bool>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2017-07-18 04:48:49</run_start>
+        <run_time>1969-12-31 16:01:00</run_time>
+        <run_type>daily</run_type>
+        <sys_class_name>scheduled_import_set</sys_class_name>
+        <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+        <sys_created_on>2017-07-18 04:49:46</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>89d901590f004740b64a00dce1050e45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Denied Parties List Import</sys_name>
+        <sys_package display_value="Denied Party Screening System" source="x_hgst2_denied_par">b3ebdcd10fcc0740b64a00dce1050e08</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Denied Party Screening System">b3ebdcd10fcc0740b64a00dce1050e08</sys_scope>
+        <sys_update_name>scheduled_import_set_89d901590f004740b64a00dce1050e45</sys_update_name>
+        <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+        <sys_updated_on>2017-07-18 04:49:46</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+    </scheduled_import_set>
+</record_update>

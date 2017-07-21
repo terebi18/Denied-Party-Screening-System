@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Matched Listing" max_length="40" name="x_hgst2_denied_par_matched_listing" type="collection">
+        <element label="Comment" max_length="500" name="comment" type="string"/>
+        <element label="DPL City" max_length="150" name="dpl_city" read_only="true" type="string"/>
+        <element label="DPL Country" max_length="40" name="dpl_country" read_only="true" type="string"/>
+        <element label="DPL Name" max_length="150" name="dpl_name" read_only="true" type="string"/>
+        <element label="DPL State" max_length="100" name="dpl_state" read_only="true" type="string"/>
+        <element label="DPL Street 1" max_length="150" name="dpl_street_1" read_only="true" type="string"/>
+        <element label="DPL Street 2" max_length="150" name="dpl_street_2" read_only="true" type="string"/>
+        <element label="Employee Country" max_length="40" name="employee_country" read_only="true" type="string"/>
+        <element display="true" label="Employee ID" max_length="40" name="employee_id" read_only="true" type="string"/>
+        <element label="Employee Name" max_length="150" name="employee_name" read_only="true" type="string"/>
+        <element label="Location" max_length="100" name="location" read_only="true" type="string"/>
+        <element label="Matched By" max_length="500" name="matched_by" read_only="true" type="string"/>
+        <element choice="3" default="Pending" label="Record Status" max_length="40" name="record_status" type="choice">
+            <choice>
+                <element label="Pending" sequence="0" value="Pending"/>
+                <element label="Released" sequence="1" value="Released"/>
+                <element label="Blocked" sequence="2" value="Blocked"/>
+            </choice>
+        </element>
+        <element label="Supervisor" max_length="150" name="supervisor" read_only="true" type="string"/>
+    </element>
+</database>

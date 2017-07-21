@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Dpl Raw Denied Parties List" max_length="40" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" sizeclass="61100" type="collection">
+        <element attributes="import_attribute_name=CITY,edge_encryption_enabled=true" label="CITY" max_length="60" name="u_city" type="string"/>
+        <element attributes="import_attribute_name=CODE,edge_encryption_enabled=true" label="CODE" max_length="40" name="u_code" type="string"/>
+        <element attributes="import_attribute_name=COUNTRY,edge_encryption_enabled=true" label="COUNTRY" max_length="40" name="u_country" type="string"/>
+        <element attributes="import_attribute_name=ENDDATE,edge_encryption_enabled=true" label="ENDDATE" max_length="40" name="u_enddate" type="string"/>
+        <element attributes="import_attribute_name=FEDDATE1,edge_encryption_enabled=true" label="FEDDATE1" max_length="40" name="u_feddate1" type="string"/>
+        <element attributes="import_attribute_name=FEDDATE2,edge_encryption_enabled=true" label="FEDDATE2" max_length="40" name="u_feddate2" type="string"/>
+        <element attributes="import_attribute_name=FEDDATE3,edge_encryption_enabled=true" label="FEDDATE3" max_length="40" name="u_feddate3" type="string"/>
+        <element attributes="import_attribute_name=FEDDATE4,edge_encryption_enabled=true" label="FEDDATE4" max_length="40" name="u_feddate4" type="string"/>
+        <element attributes="import_attribute_name=FEDDATE5,edge_encryption_enabled=true" label="FEDDATE5" max_length="40" name="u_feddate5" type="string"/>
+        <element attributes="import_attribute_name=FEDDATE6,edge_encryption_enabled=true" label="FEDDATE6" max_length="40" name="u_feddate6" type="string"/>
+        <element attributes="import_attribute_name=FEDDATE7,edge_encryption_enabled=true" label="FEDDATE7" max_length="40" name="u_feddate7" type="string"/>
+        <element attributes="import_attribute_name=FEDDATE8,edge_encryption_enabled=true" label="FEDDATE8" max_length="40" name="u_feddate8" type="string"/>
+        <element attributes="import_attribute_name=IDNUM,edge_encryption_enabled=true" label="IDNUM" max_length="40" name="u_idnum" type="string"/>
+        <element attributes="import_attribute_name=LASTUPDATE,edge_encryption_enabled=true" label="LASTUPDATE" max_length="40" name="u_lastupdate" type="string"/>
+        <element attributes="import_attribute_name=NAME,edge_encryption_enabled=true" label="NAME" max_length="100" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=PAGE1,edge_encryption_enabled=true" label="PAGE1" max_length="40" name="u_page1" type="string"/>
+        <element attributes="import_attribute_name=PAGE2,edge_encryption_enabled=true" label="PAGE2" max_length="40" name="u_page2" type="string"/>
+        <element attributes="import_attribute_name=PAGE3,edge_encryption_enabled=true" label="PAGE3" max_length="40" name="u_page3" type="string"/>
+        <element attributes="import_attribute_name=PAGE4,edge_encryption_enabled=true" label="PAGE4" max_length="40" name="u_page4" type="string"/>
+        <element attributes="import_attribute_name=PAGE5,edge_encryption_enabled=true" label="PAGE5" max_length="40" name="u_page5" type="string"/>
+        <element attributes="import_attribute_name=PAGE6,edge_encryption_enabled=true" label="PAGE6" max_length="40" name="u_page6" type="string"/>
+        <element attributes="import_attribute_name=PAGE7,edge_encryption_enabled=true" label="PAGE7" max_length="40" name="u_page7" type="string"/>
+        <element attributes="import_attribute_name=PAGE8,edge_encryption_enabled=true" label="PAGE8" max_length="40" name="u_page8" type="string"/>
+        <element attributes="import_attribute_name=STARTDATE,edge_encryption_enabled=true" label="STARTDATE" max_length="40" name="u_startdate" type="string"/>
+        <element attributes="import_attribute_name=STATE,edge_encryption_enabled=true" label="STATE" max_length="40" name="u_state" type="string"/>
+        <element attributes="import_attribute_name=STREET1,edge_encryption_enabled=true" label="STREET1" max_length="60" name="u_street1" type="string"/>
+        <element attributes="import_attribute_name=STREET2,edge_encryption_enabled=true" label="STREET2" max_length="60" name="u_street2" type="string"/>
+        <element attributes="import_attribute_name=VOL1,edge_encryption_enabled=true" label="VOL1" max_length="40" name="u_vol1" type="string"/>
+        <element attributes="import_attribute_name=VOL2,edge_encryption_enabled=true" label="VOL2" max_length="40" name="u_vol2" type="string"/>
+        <element attributes="import_attribute_name=VOL3,edge_encryption_enabled=true" label="VOL3" max_length="40" name="u_vol3" type="string"/>
+        <element attributes="import_attribute_name=VOL4,edge_encryption_enabled=true" label="VOL4" max_length="40" name="u_vol4" type="string"/>
+        <element attributes="import_attribute_name=VOL5,edge_encryption_enabled=true" label="VOL5" max_length="40" name="u_vol5" type="string"/>
+        <element attributes="import_attribute_name=VOL6,edge_encryption_enabled=true" label="VOL6" max_length="40" name="u_vol6" type="string"/>
+        <element attributes="import_attribute_name=VOL7,edge_encryption_enabled=true" label="VOL7" max_length="40" name="u_vol7" type="string"/>
+        <element attributes="import_attribute_name=VOL8,edge_encryption_enabled=true" label="VOL8" max_length="40" name="u_vol8" type="string"/>
+    </element>
+</database>

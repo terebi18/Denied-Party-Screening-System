@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_hgst2_denied_par_denied_parties_listing_user" name="x_hgst2_denied_par_denied_parties_listing_user">bbeedcd10fcc0740b64a00dce1050e09</contains>
+        <role display_value="x_hgst2_denied_par.dpl_user" name="x_hgst2_denied_par.dpl_user">373cf7c20f488740b64a00dce1050eb3</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+        <sys_created_on>2017-07-21 02:34:03</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>18c7081a0f488740b64a00dce1050e8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_hgst2_denied_par_denied_parties_listing_user.x_hgst2_denied_par.dpl_user</sys_name>
+        <sys_package display_value="Denied Party Screening System" source="x_hgst2_denied_par">b3ebdcd10fcc0740b64a00dce1050e08</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Denied Party Screening System">b3ebdcd10fcc0740b64a00dce1050e08</sys_scope>
+        <sys_update_name>sys_user_role_contains_18c7081a0f488740b64a00dce1050e8a</sys_update_name>
+        <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+        <sys_updated_on>2017-07-21 02:34:03</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

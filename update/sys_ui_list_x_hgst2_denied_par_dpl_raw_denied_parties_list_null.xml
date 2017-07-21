@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_hgst2_denied_par_dpl_raw_denied_parties_list" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>e71870510f004740b64a00dce1050e40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>6b1870510f004740b64a00dce1050e40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>eb1870510f004740b64a00dce1050e40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_name</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>6f1870510f004740b64a00dce1050e40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_street1</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>ef1870510f004740b64a00dce1050e40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_street2</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>631870510f004740b64a00dce1050e41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_city</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>e31870510f004740b64a00dce1050e41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_state</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>671870510f004740b64a00dce1050e41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_country</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>e71870510f004740b64a00dce1050e41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_startdate</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>6b1870510f004740b64a00dce1050e41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_enddate</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>eb1870510f004740b64a00dce1050e41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_vol1</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>6f1870510f004740b64a00dce1050e41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_page1</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>ef1870510f004740b64a00dce1050e41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_feddate1</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>631870510f004740b64a00dce1050e42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_vol2</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>e31870510f004740b64a00dce1050e42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_page2</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>671870510f004740b64a00dce1050e42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_feddate2</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>e71870510f004740b64a00dce1050e42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_vol3</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>6b1870510f004740b64a00dce1050e42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_page3</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>eb1870510f004740b64a00dce1050e42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_feddate3</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>6f1870510f004740b64a00dce1050e42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_vol4</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>ef1870510f004740b64a00dce1050e42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_page4</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>631870510f004740b64a00dce1050e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_feddate4</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>e31870510f004740b64a00dce1050e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_vol5</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>671870510f004740b64a00dce1050e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_page5</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>e71870510f004740b64a00dce1050e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_feddate5</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>6b1870510f004740b64a00dce1050e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_vol6</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>eb1870510f004740b64a00dce1050e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_page6</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>27</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>6f1870510f004740b64a00dce1050e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_feddate6</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>28</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>ef1870510f004740b64a00dce1050e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_vol7</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>29</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>631870510f004740b64a00dce1050e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_page7</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>30</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>e31870510f004740b64a00dce1050e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_feddate7</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>31</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>671870510f004740b64a00dce1050e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_vol8</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>32</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>e71870510f004740b64a00dce1050e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_page8</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>33</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>6b1870510f004740b64a00dce1050e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_feddate8</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>34</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>eb1870510f004740b64a00dce1050e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_code</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>35</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>6f1870510f004740b64a00dce1050e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_lastupdate</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>36</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>ef1870510f004740b64a00dce1050e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_idnum</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>37</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>631870510f004740b64a00dce1050e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>38</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>e31870510f004740b64a00dce1050e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>39</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>671870510f004740b64a00dce1050e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="x_hgst2_denied_par_dpl_raw_denied_parties_list" element="NULL" name="x_hgst2_denied_par_dpl_raw_denied_parties_list" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e31870510f004740b64a00dce1050e40</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>40</position>
+            <sum>false</sum>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_id>e71870510f004740b64a00dce1050e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_hgst2_denied_par_dpl_raw_denied_parties_list</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:31:26</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>e31870510f004740b64a00dce1050e40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_hgst2_denied_par_dpl_raw_denied_parties_list</sys_name>
+            <sys_package display_value="Denied Party Screening System" source="x_hgst2_denied_par">b3ebdcd10fcc0740b64a00dce1050e08</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Denied Party Screening System">b3ebdcd10fcc0740b64a00dce1050e08</sys_scope>
+            <sys_update_name>sys_ui_list_x_hgst2_denied_par_dpl_raw_denied_parties_list_null</sys_update_name>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:31:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

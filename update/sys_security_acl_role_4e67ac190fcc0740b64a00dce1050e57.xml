@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+        <sys_created_on>2017-07-18 02:18:26</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>4e67ac190fcc0740b64a00dce1050e57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_hgst2_denied_par_matched_listing_comment_history.x_hgst2_denied_par_matched_listing_comment_history_user</sys_name>
+        <sys_package display_value="Denied Party Screening System" source="x_hgst2_denied_par">b3ebdcd10fcc0740b64a00dce1050e08</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Denied Party Screening System">b3ebdcd10fcc0740b64a00dce1050e08</sys_scope>
+        <sys_security_acl display_value="x_hgst2_denied_par_matched_listing_comment_history">8a67ac190fcc0740b64a00dce1050e56</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4e67ac190fcc0740b64a00dce1050e57</sys_update_name>
+        <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+        <sys_updated_on>2017-07-18 02:18:26</sys_updated_on>
+        <sys_user_role display_value="x_hgst2_denied_par_matched_listing_comment_history_user" name="x_hgst2_denied_par_matched_listing_comment_history_user">5d6720d50fcc0740b64a00dce1050e9c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

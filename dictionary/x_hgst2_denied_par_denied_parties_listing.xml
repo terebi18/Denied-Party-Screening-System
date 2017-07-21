@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Denied Parties Listing" max_length="40" name="x_hgst2_denied_par_denied_parties_listing" sizeclass="55456" type="collection">
+        <element label="City" max_length="40" name="city" read_only="true" type="string"/>
+        <element choice="1" label="Country" max_length="40" name="country" type="string">
+            <choice>
+                <element label="AE" sequence="0" value="AE"/>
+                <element label="AF" sequence="0" value="AF"/>
+                <element label="AL" sequence="0" value="AL"/>
+                <element label="AM" sequence="0" value="AM"/>
+                <element label="AO" sequence="0" value="AO"/>
+                <element label="AR" sequence="0" value="AR"/>
+                <element label="AT" sequence="0" value="AT"/>
+                <element label="AU" sequence="0" value="AU"/>
+                <element label="AW" sequence="0" value="AW"/>
+                <element label="AZ" sequence="0" value="AZ"/>
+                <element label="BA" sequence="0" value="BA"/>
+                <element label="BB" sequence="0" value="BB"/>
+                <element label="BD" sequence="0" value="BD"/>
+                <element label="BE" sequence="0" value="BE"/>
+                <element label="BG" sequence="0" value="BG"/>
+                <element label="BH" sequence="0" value="BH"/>
+                <element label="BI" sequence="0" value="BI"/>
+                <element label="BJ" sequence="0" value="BJ"/>
+                <element label="BO" sequence="0" value="BO"/>
+                <element label="BR" sequence="0" value="BR"/>
+                <element label="BS" sequence="0" value="BS"/>
+                <element label="BY" sequence="0" value="BY"/>
+                <element label="BZ" sequence="0" value="BZ"/>
+                <element label="CA" sequence="0" value="CA"/>
+                <element label="CD" sequence="0" value="CD"/>
+                <element label="CF" sequence="0" value="CF"/>
+                <element label="CG" sequence="0" value="CG"/>
+                <element label="CH" sequence="0" value="CH"/>
+                <element label="CI" sequence="0" value="CI"/>
+                <element label="CL" sequence="0" value="CL"/>
+                <element label="CN" sequence="0" value="CN"/>
+                <element label="CO" sequence="0" value="CO"/>
+                <element label="CR" sequence="0" value="CR"/>
+                <element label="CU" sequence="0" value="CU"/>
+                <element label="CW" sequence="0" value="CW"/>
+                <element label="CY" sequence="0" value="CY"/>
+                <element label="CZ" sequence="0" value="CZ"/>
+                <element label="DE" sequence="0" value="DE"/>
+                <element label="DK" sequence="0" value="DK"/>
+                <element label="DM" sequence="0" value="DM"/>
+                <element label="DO" sequence="0" value="DO"/>
+                <element label="DZ" sequence="0" value="DZ"/>
+                <element label="EC" sequence="0" value="EC"/>
+                <element label="EE" sequence="0" value="EE"/>
+                <element label="EG" sequence="0" value="EG"/>
+                <element label="ER" sequence="0" value="ER"/>
+                <element label="ES" sequence="0" value="ES"/>
+                <element label="ET" sequence="0" value="ET"/>
+                <element label="FI" sequence="0" value="FI"/>
+                <element label="FR" sequence="0" value="FR"/>
+                <element label="GB" sequence="0" value="GB"/>
+                <element label="GE" sequence="0" value="GE"/>
+                <element label="GH" sequence="0" value="GH"/>
+                <element label="GI" sequence="0" value="GI"/>
+                <element label="GM" sequence="0" value="GM"/>
+                <element label="GR" sequence="0" value="GR"/>
+                <element label="GT" sequence="0" value="GT"/>
+                <element label="GY" sequence="0" value="GY"/>
+                <element label="HK" sequence="0" value="HK"/>
+                <element label="HN" sequence="0" value="HN"/>
+                <element label="HR" sequence="0" value="HR"/>
+                <element label="HT" sequence="0" value="HT"/>
+                <element label="ID" sequence="0" value="ID"/>
+                <element label="IE" sequence="0" value="IE"/>
+                <element label="IL" sequence="0" value="IL"/>
+                <element label="IM" sequence="0" value="IM"/>
+                <element label="IN" sequence="0" value="IN"/>
+                <element label="IQ" sequence="0" value="IQ"/>
+                <element label="IR" sequence="0" value="IR"/>
+                <element label="IT" sequence="0" value="IT"/>
+                <element label="JE" sequence="0" value="JE"/>
+                <element label="JM" sequence="0" value="JM"/>
+                <element label="JO" sequence="0" value="JO"/>
+                <element label="JP" sequence="0" value="JP"/>
+                <element label="KE" sequence="0" value="KE"/>
+                <element label="KG" sequence="0" value="KG"/>
+                <element label="KH" sequence="0" value="KH"/>
+                <element label="KM" sequence="0" value="KM"/>
+                <element label="KN" sequence="0" value="KN"/>
+                <element label="KP" sequence="0" value="KP"/>
+                <element label="KR" sequence="0" value="KR"/>
+                <element label="KW" sequence="0" value="KW"/>
+                <element label="KY" sequence="0" value="KY"/>
+                <element label="KZ" sequence="0" value="KZ"/>
+                <element label="LB" sequence="0" value="LB"/>
+                <element label="LI" sequence="0" value="LI"/>
+                <element label="LK" sequence="0" value="LK"/>
+                <element label="LR" sequence="0" value="LR"/>
+                <element label="LU" sequence="0" value="LU"/>
+                <element label="LV" sequence="0" value="LV"/>
+                <element label="LY" sequence="0" value="LY"/>
+                <element label="MA" sequence="0" value="MA"/>
+                <element label="ME" sequence="0" value="ME"/>
+                <element label="MH" sequence="0" value="MH"/>
+                <element label="ML" sequence="0" value="ML"/>
+                <element label="MM" sequence="0" value="MM"/>
+                <element label="MO" sequence="0" value="MO"/>
+                <element label="MP" sequence="0" value="MP"/>
+                <element label="MR" sequence="0" value="MR"/>
+                <element label="MT" sequence="0" value="MT"/>
+                <element label="MX" sequence="0" value="MX"/>
+                <element label="MY" sequence="0" value="MY"/>
+                <element label="MZ" sequence="0" value="MZ"/>
+                <element label="NE" sequence="0" value="NE"/>
+                <element label="NG" sequence="0" value="NG"/>
+                <element label="NI" sequence="0" value="NI"/>
+                <element label="NL" sequence="0" value="NL"/>
+                <element label="NO" sequence="0" value="NO"/>
+                <element label="NZ" sequence="0" value="NZ"/>
+                <element label="OM" sequence="0" value="OM"/>
+                <element label="PA" sequence="0" value="PA"/>
+                <element label="PE" sequence="0" value="PE"/>
+                <element label="PH" sequence="0" value="PH"/>
+                <element label="PK" sequence="0" value="PK"/>
+                <element label="PL" sequence="0" value="PL"/>
+                <element label="PR" sequence="0" value="PR"/>
+                <element label="PS" sequence="0" value="PS"/>
+                <element label="PY" sequence="0" value="PY"/>
+                <element label="QA" sequence="0" value="QA"/>
+                <element label="RO" sequence="0" value="RO"/>
+                <element label="RS" sequence="0" value="RS"/>
+                <element label="RU" sequence="0" value="RU"/>
+                <element label="RW" sequence="0" value="RW"/>
+                <element label="SA" sequence="0" value="SA"/>
+                <element label="SC" sequence="0" value="SC"/>
+                <element label="SD" sequence="0" value="SD"/>
+                <element label="SE" sequence="0" value="SE"/>
+                <element label="SG" sequence="0" value="SG"/>
+                <element label="SI" sequence="0" value="SI"/>
+                <element label="SL" sequence="0" value="SL"/>
+                <element label="SN" sequence="0" value="SN"/>
+                <element label="SO" sequence="0" value="SO"/>
+                <element label="SS" sequence="0" value="SS"/>
+                <element label="SV" sequence="0" value="SV"/>
+                <element label="SY" sequence="0" value="SY"/>
+                <element label="TD" sequence="0" value="TD"/>
+                <element label="TH" sequence="0" value="TH"/>
+                <element label="TJ" sequence="0" value="TJ"/>
+                <element label="TM" sequence="0" value="TM"/>
+                <element label="TN" sequence="0" value="TN"/>
+                <element label="TR" sequence="0" value="TR"/>
+                <element label="TW" sequence="0" value="TW"/>
+                <element label="TZ" sequence="0" value="TZ"/>
+                <element label="UA" sequence="0" value="UA"/>
+                <element label="UG" sequence="0" value="UG"/>
+                <element label="US" sequence="0" value="US"/>
+                <element label="UY" sequence="0" value="UY"/>
+                <element label="UZ" sequence="0" value="UZ"/>
+                <element label="VC" sequence="0" value="VC"/>
+                <element label="VE" sequence="0" value="VE"/>
+                <element label="VG" sequence="0" value="VG"/>
+                <element label="VN" sequence="0" value="VN"/>
+                <element label="VU" sequence="0" value="VU"/>
+                <element label="XX" sequence="0" value="XX"/>
+                <element label="YE" sequence="0" value="YE"/>
+                <element label="ZA" sequence="0" value="ZA"/>
+                <element label="ZW" sequence="0" value="ZW"/>
+            </choice>
+        </element>
+        <element label="Last Update Date" max_length="40" name="last_update_date" read_only="true" type="glide_date"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="State" max_length="40" name="state" read_only="true" type="string"/>
+        <element label="Street1" max_length="40" name="street1" read_only="true" type="string"/>
+        <element label="Street2" max_length="40" name="street2" read_only="true" type="string"/>
+        <index name="index">
+            <element name="name"/>
+            <element name="state"/>
+            <element name="street2"/>
+            <element name="country"/>
+            <element name="city"/>
+            <element name="street1"/>
+        </index>
+    </element>
+</database>

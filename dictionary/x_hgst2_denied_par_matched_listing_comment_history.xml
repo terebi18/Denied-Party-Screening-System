@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Matched Listing Comment History" max_length="40" name="x_hgst2_denied_par_matched_listing_comment_history" type="collection">
+        <element display="true" label="Comment" max_length="500" name="comment" read_only="true" type="string"/>
+        <element label="Employee ID" max_length="32" name="employee_id" read_only="true" reference="x_hgst2_denied_par_matched_listing" type="reference"/>
+        <element label="Record Status" max_length="40" name="record_status" read_only="true" type="string"/>
+        <index name="index">
+            <element name="employee_id"/>
+        </index>
+    </element>
+</database>

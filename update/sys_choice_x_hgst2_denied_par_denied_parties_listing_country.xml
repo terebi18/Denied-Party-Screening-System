@@ -1,0 +1,2849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="country" table="x_hgst2_denied_par_denied_parties_listing" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AE</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e14cb8d10f004740b64a00dce1050e99</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:35</sys_updated_on>
+            <value>AE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AF</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8e4cb8d10f004740b64a00dce1050ec0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:37</sys_updated_on>
+            <value>AF</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AL</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2f5cbcd10f004740b64a00dce1050e20</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:00</sys_updated_on>
+            <value>AL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AM</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>508cb0150f004740b64a00dce1050ecb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:36</sys_updated_on>
+            <value>AM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AO</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5c6cbcd10f004740b64a00dce1050e6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:03</sys_updated_on>
+            <value>AO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AR</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>735cbcd10f004740b64a00dce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:02</sys_updated_on>
+            <value>AR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AT</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>016cbcd10f004740b64a00dce1050ee2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:06</sys_updated_on>
+            <value>AT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AU</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>074cf8d10f004740b64a00dce1050e38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:41</sys_updated_on>
+            <value>AU</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AW</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>274cf8d10f004740b64a00dce1050e9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:44</sys_updated_on>
+            <value>AW</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AZ</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>256cfcd10f004740b64a00dce1050e22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:09</sys_updated_on>
+            <value>AZ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BA</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>cf4cf8d10f004740b64a00dce1050e4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:42</sys_updated_on>
+            <value>BA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BB</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3f9cb4150f004740b64a00dce1050ef3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:07</sys_updated_on>
+            <value>BB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BD</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6b5cbcd10f004740b64a00dce1050e1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:00</sys_updated_on>
+            <value>BD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BE</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7a5c7cd10f004740b64a00dce1050e93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:57</sys_updated_on>
+            <value>BE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BG</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a39cb4150f004740b64a00dce1050ef0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:06</sys_updated_on>
+            <value>BG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BH</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d28cf0150f004740b64a00dce1050ef0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:44</sys_updated_on>
+            <value>BH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BI</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b45c3cd10f004740b64a00dce1050e27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:49</sys_updated_on>
+            <value>BI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BJ</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f34cf8d10f004740b64a00dce1050ea7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:45</sys_updated_on>
+            <value>BJ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BO</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a4acf4150f004740b64a00dce1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:10</sys_updated_on>
+            <value>BO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BR</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>db4cf8d10f004740b64a00dce1050e61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:43</sys_updated_on>
+            <value>BR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BS</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4a8cf0150f004740b64a00dce1050ecd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:43</sys_updated_on>
+            <value>BS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BY</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>258cf0150f004740b64a00dce1050ea8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:41</sys_updated_on>
+            <value>BY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BZ</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>df8c34150f004740b64a00dce1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:49</sys_updated_on>
+            <value>BZ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CA</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>395c3cd10f004740b64a00dce1050edd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:53</sys_updated_on>
+            <value>CA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CD</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3f4cf8d10f004740b64a00dce1050eb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:45</sys_updated_on>
+            <value>CD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CF</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1b4cf8d10f004740b64a00dce1050e51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:43</sys_updated_on>
+            <value>CF</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CG</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4a4cb8d10f004740b64a00dce1050eef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:38</sys_updated_on>
+            <value>CG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CH</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>335cbcd10f004740b64a00dce1050e40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:01</sys_updated_on>
+            <value>CH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CI</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b99c74150f004740b64a00dce1050efd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:59</sys_updated_on>
+            <value>CI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CL</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c45cf8d10f004740b64a00dce1050ecb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:46</sys_updated_on>
+            <value>CL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CN</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5a4cb8d10f004740b64a00dce1050ef2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:39</sys_updated_on>
+            <value>CN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CO</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>214cb8d10f004740b64a00dce1050e9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:36</sys_updated_on>
+            <value>CO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CR</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e46cbcd10f004740b64a00dce1050e9b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:04</sys_updated_on>
+            <value>CR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CU</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>446cbcd10f004740b64a00dce1050e54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:02</sys_updated_on>
+            <value>CU</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CW</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>374cf8d10f004740b64a00dce1050ea6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:45</sys_updated_on>
+            <value>CW</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CY</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>815c3cd10f004740b64a00dce1050e3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:50</sys_updated_on>
+            <value>CY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CZ</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>286cbcd10f004740b64a00dce1050e9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:05</sys_updated_on>
+            <value>CZ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DE</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>254cb8d10f004740b64a00dce1050e9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:36</sys_updated_on>
+            <value>DE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DK</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>cf6cfcd10f004740b64a00dce1050ef4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:15</sys_updated_on>
+            <value>DK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DM</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:52:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>befc34550f004740b64a00dce1050ecd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:52:42</sys_updated_on>
+            <value>DM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DO</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>046cbcd10f004740b64a00dce1050e4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:02</sys_updated_on>
+            <value>DO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DZ</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>614cb8d10f004740b64a00dce1050ea0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:36</sys_updated_on>
+            <value>DZ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EC</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>134cf8d10f004740b64a00dce1050e92</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:43</sys_updated_on>
+            <value>EC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EE</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>608cf0150f004740b64a00dce1050e12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:38</sys_updated_on>
+            <value>EE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EG</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4e4cb8d10f004740b64a00dce1050ec8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:38</sys_updated_on>
+            <value>EG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ER</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>daac38150f004740b64a00dce1050e28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:17</sys_updated_on>
+            <value>ER</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ES</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1a4cb8d10f004740b64a00dce1050ef0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:38</sys_updated_on>
+            <value>ES</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ET</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>207c30150f004740b64a00dce1050ea5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:20</sys_updated_on>
+            <value>ET</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FI</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>896cbcd10f004740b64a00dce1050eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:07</sys_updated_on>
+            <value>FI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FR</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ea5c7cd10f004740b64a00dce1050e92</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:57</sys_updated_on>
+            <value>FR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GB</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6d4cb8d10f004740b64a00dce1050ea1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:36</sys_updated_on>
+            <value>GB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GE</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1d5c3cd10f004740b64a00dce1050e4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:51</sys_updated_on>
+            <value>GE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GH</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bb5cbcd10f004740b64a00dce1050e22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:01</sys_updated_on>
+            <value>GH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GI</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fa8c34150f004740b64a00dce1050e2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:46</sys_updated_on>
+            <value>GI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GM</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e9bcb8150f004740b64a00dce1050e10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:31</sys_updated_on>
+            <value>GM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GR</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>555c3cd10f004740b64a00dce1050e4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:51</sys_updated_on>
+            <value>GR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GT</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>0f4cf8d10f004740b64a00dce1050e4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:42</sys_updated_on>
+            <value>GT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GY</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f79cb4150f004740b64a00dce1050ef2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:07</sys_updated_on>
+            <value>GY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HK</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>0f4cf8d10f004740b64a00dce1050e4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:42</sys_updated_on>
+            <value>HK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HN</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ba4cf8d10f004740b64a00dce1050e34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:41</sys_updated_on>
+            <value>HN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HR</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>616cfcd10f004740b64a00dce1050e24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:09</sys_updated_on>
+            <value>HR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HT</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>279cb4150f004740b64a00dce1050ef1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:06</sys_updated_on>
+            <value>HT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ID</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>464cb8d10f004740b64a00dce1050ec3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:37</sys_updated_on>
+            <value>ID</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IE</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a49c74150f004740b64a00dce1050e29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:54</sys_updated_on>
+            <value>IE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IL</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b55c3cd10f004740b64a00dce1050efe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:54</sys_updated_on>
+            <value>IL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IM</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5c9c74150f004740b64a00dce1050e18</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:53</sys_updated_on>
+            <value>IM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IN</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>485cf8d10f004740b64a00dce1050ed8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:46</sys_updated_on>
+            <value>IN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IQ</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>754cb8d10f004740b64a00dce1050eba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:37</sys_updated_on>
+            <value>IQ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IR</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f54cb8d10f004740b64a00dce1050eb7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:37</sys_updated_on>
+            <value>IR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IT</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6d4cb8d10f004740b64a00dce1050e9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:36</sys_updated_on>
+            <value>IT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JE</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c55c3cd10f004740b64a00dce1050e35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:50</sys_updated_on>
+            <value>JE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JM</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4d9c74150f004740b64a00dce1050e52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:55</sys_updated_on>
+            <value>JM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JO</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8e5c7cd10f004740b64a00dce1050e12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:54</sys_updated_on>
+            <value>JO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JP</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>708cf0150f004740b64a00dce1050e16</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:38</sys_updated_on>
+            <value>JP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KE</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>0f5c7cd10f004740b64a00dce1050ed4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:58</sys_updated_on>
+            <value>KE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KG</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:52:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b2dcfc150f004740b64a00dce1050ea5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:52:09</sys_updated_on>
+            <value>KG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KH</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1a4cb8d10f004740b64a00dce1050ef9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:39</sys_updated_on>
+            <value>KH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KM</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8c7c30150f004740b64a00dce1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:18</sys_updated_on>
+            <value>KM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KN</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>148cb0150f004740b64a00dce1050eda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:36</sys_updated_on>
+            <value>KN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KP</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>dc5cf8d10f004740b64a00dce1050eee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:47</sys_updated_on>
+            <value>KP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KR</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>905cf8d10f004740b64a00dce1050edd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:47</sys_updated_on>
+            <value>KR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KW</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6a4cf8d10f004740b64a00dce1050e08</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:40</sys_updated_on>
+            <value>KW</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KY</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>274cf8d10f004740b64a00dce1050e98</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:44</sys_updated_on>
+            <value>KY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KZ</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bf7cb0150f004740b64a00dce1050ea7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:34</sys_updated_on>
+            <value>KZ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LB</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>224cf8d10f004740b64a00dce1050e07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:40</sys_updated_on>
+            <value>LB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LI</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5d8cf0150f004740b64a00dce1050e74</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:40</sys_updated_on>
+            <value>LI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LK</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:52:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>0afc34550f004740b64a00dce1050e2a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:52:38</sys_updated_on>
+            <value>LK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LR</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c09c34150f004740b64a00dce1050ef6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:52</sys_updated_on>
+            <value>LR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LU</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d9acf4150f004740b64a00dce1050ea9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:13</sys_updated_on>
+            <value>LU</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LV</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f36c30150f004740b64a00dce1050e71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:18</sys_updated_on>
+            <value>LV</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LY</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e15c3cd10f004740b64a00dce1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:52</sys_updated_on>
+            <value>LY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MA</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1a6cfcd10f004740b64a00dce1050e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:12</sys_updated_on>
+            <value>MA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ME</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b4acf4150f004740b64a00dce1050e88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:11</sys_updated_on>
+            <value>ME</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MH</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c08cb0150f004740b64a00dce1050eb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:35</sys_updated_on>
+            <value>MH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ML</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>605c3cd10f004740b64a00dce1050e08</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:48</sys_updated_on>
+            <value>ML</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MM</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5a4cb8d10f004740b64a00dce1050ef1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:39</sys_updated_on>
+            <value>MM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MO</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>318cf0150f004740b64a00dce1050ec8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:43</sys_updated_on>
+            <value>MO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MP</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3cccf8150f004740b64a00dce1050eeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:44</sys_updated_on>
+            <value>MP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MR</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5e6cfcd10f004740b64a00dce1050e81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:12</sys_updated_on>
+            <value>MR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MT</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c47c30150f004740b64a00dce1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:19</sys_updated_on>
+            <value>MT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MX</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e64cf8d10f004740b64a00dce1050e02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:40</sys_updated_on>
+            <value>MX</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MY</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8e5c7cd10f004740b64a00dce1050e04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:54</sys_updated_on>
+            <value>MY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MZ</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c6bcb8150f004740b64a00dce1050e30</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:32</sys_updated_on>
+            <value>MZ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NE</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>866cfcd10f004740b64a00dce1050e72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:11</sys_updated_on>
+            <value>NE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NG</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5c5cf8d10f004740b64a00dce1050ee2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:47</sys_updated_on>
+            <value>NG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NI</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>82bcb8150f004740b64a00dce1050e36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:33</sys_updated_on>
+            <value>NI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NL</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>356cfcd10f004740b64a00dce1050e25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:09</sys_updated_on>
+            <value>NL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NO</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f86cbcd10f004740b64a00dce1050ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:05</sys_updated_on>
+            <value>NO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NZ</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e9acf4150f004740b64a00dce1050ec4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:14</sys_updated_on>
+            <value>NZ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OM</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9d6cbcd10f004740b64a00dce1050eee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:07</sys_updated_on>
+            <value>OM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PA</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>434cf8d10f004740b64a00dce1050e39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:42</sys_updated_on>
+            <value>PA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PE</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fb4cf8d10f004740b64a00dce1050eb8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:45</sys_updated_on>
+            <value>PE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PH</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>324cf8d10f004740b64a00dce1050e29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:41</sys_updated_on>
+            <value>PH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PK</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a14cb8d10f004740b64a00dce1050ea3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:36</sys_updated_on>
+            <value>PK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PL</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6b9cb4150f004740b64a00dce1050eee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:06</sys_updated_on>
+            <value>PL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PR</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e6ac38150f004740b64a00dce1050e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:18</sys_updated_on>
+            <value>PR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PS</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>824cb8d10f004740b64a00dce1050edd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:38</sys_updated_on>
+            <value>PS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PY</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e34cf8d10f004740b64a00dce1050ea3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:44</sys_updated_on>
+            <value>PY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>QA</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b54cb8d10f004740b64a00dce1050eb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:37</sys_updated_on>
+            <value>QA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RO</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>60bc78150f004740b64a00dce1050e7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:27</sys_updated_on>
+            <value>RO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RS</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e75cbcd10f004740b64a00dce1050e21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:01</sys_updated_on>
+            <value>RS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RU</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b54cb8d10f004740b64a00dce1050eb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:37</sys_updated_on>
+            <value>RU</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RW</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>318cf0150f004740b64a00dce1050eb3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:42</sys_updated_on>
+            <value>RW</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SA</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5e4cb8d10f004740b64a00dce1050efa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:39</sys_updated_on>
+            <value>SA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SC</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d37cb0150f004740b64a00dce1050e64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:33</sys_updated_on>
+            <value>SC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SD</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a54cb8d10f004740b64a00dce1050e9b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:36</sys_updated_on>
+            <value>SD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SE</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>0f6cfcd10f004740b64a00dce1050ef3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:15</sys_updated_on>
+            <value>SE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SG</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5e4cb8d10f004740b64a00dce1050ef7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:39</sys_updated_on>
+            <value>SG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SI</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>49acf4150f004740b64a00dce1050e8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:12</sys_updated_on>
+            <value>SI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SL</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>077cb0150f004740b64a00dce1050e40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:31</sys_updated_on>
+            <value>SL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SN</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>97ac38150f004740b64a00dce1050ea7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:21</sys_updated_on>
+            <value>SN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SO</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8a4cb8d10f004740b64a00dce1050ec6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:38</sys_updated_on>
+            <value>SO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SS</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>974cf8d10f004740b64a00dce1050e64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:43</sys_updated_on>
+            <value>SS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SV</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>364cf8d10f004740b64a00dce1050e31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:41</sys_updated_on>
+            <value>SV</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SY</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2d4cb8d10f004740b64a00dce1050ea0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:36</sys_updated_on>
+            <value>SY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TD</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:53:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ed1d78550f004740b64a00dce1050e0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:53:08</sys_updated_on>
+            <value>TD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TH</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>164cb8d10f004740b64a00dce1050ef3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:39</sys_updated_on>
+            <value>TH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TJ</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7d6cfcd10f004740b64a00dce1050e26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:10</sys_updated_on>
+            <value>TJ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TM</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>128cf0150f004740b64a00dce1050ee9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:44</sys_updated_on>
+            <value>TM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TN</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>195c3cd10f004740b64a00dce1050e5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:52</sys_updated_on>
+            <value>TN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TR</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fd4cb8d10f004740b64a00dce1050ea3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:36</sys_updated_on>
+            <value>TR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TW</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b19cb4150f004740b64a00dce1050e11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:59</sys_updated_on>
+            <value>TW</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TZ</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>587c30150f004740b64a00dce1050ea2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:20</sys_updated_on>
+            <value>TZ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UA</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>245cf8d10f004740b64a00dce1050ef5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:48</sys_updated_on>
+            <value>UA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UG</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>cf4cf8d10f004740b64a00dce1050e4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:42</sys_updated_on>
+            <value>UG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>US</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f55c3cd10f004740b64a00dce1050eda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:53</sys_updated_on>
+            <value>US</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UY</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2a9cb4150f004740b64a00dce1050e80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:02</sys_updated_on>
+            <value>UY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UZ</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>794cb8d10f004740b64a00dce1050eb1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:36</sys_updated_on>
+            <value>UZ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VC</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:52:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>56fc34550f004740b64a00dce1050e57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:52:39</sys_updated_on>
+            <value>VC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VE</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b24cf8d10f004740b64a00dce1050e36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:41</sys_updated_on>
+            <value>VE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VG</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>0d5c3cd10f004740b64a00dce1050e3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:50</sys_updated_on>
+            <value>VG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VN</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:51:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9e9cb4150f004740b64a00dce1050e53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:51:01</sys_updated_on>
+            <value>VN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VU</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ef4cf8d10f004740b64a00dce1050e98</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:44</sys_updated_on>
+            <value>VU</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>XX</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e94cb8d10f004740b64a00dce1050e9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:36</sys_updated_on>
+            <value>XX</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>YE</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f94cb8d10f004740b64a00dce1050ebb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:37</sys_updated_on>
+            <value>YE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ZA</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>294cb8d10f004740b64a00dce1050e9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:49:36</sys_updated_on>
+            <value>ZA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ZW</label>
+            <language>en</language>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sequence>0</sequence>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:50:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>dd7c70150f004740b64a00dce1050e35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:50:24</sys_updated_on>
+            <value>ZW</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <name>x_hgst2_denied_par_denied_parties_listing</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+            <sys_created_on>2017-07-18 03:49:35</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>a54cb8d10f004740b64a00dce1050e99</sys_id>
+            <sys_mod_count>157</sys_mod_count>
+            <sys_name>country</sys_name>
+            <sys_package display_value="Denied Party Screening System" source="x_hgst2_denied_par">b3ebdcd10fcc0740b64a00dce1050e08</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Denied Party Screening System">b3ebdcd10fcc0740b64a00dce1050e08</sys_scope>
+            <sys_update_name>sys_choice_x_hgst2_denied_par_denied_parties_listing_country</sys_update_name>
+            <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+            <sys_updated_on>2017-07-18 03:53:08</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

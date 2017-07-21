@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>sys_user</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Update Matched Listing - User Changed</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	var usr = new GlideRecord('x_hgst2_denied_par_denied_parties_listing');
+	
+	
+	var gc_usr = usr.addQuery('name',current.name);
+	
+	var chk = "";
+	
+	chk = "'" + current.name + "'";
+	
+	if(current.first_name)
+		{
+			gc_usr.addOrCondition('name',current.first_name);
+			
+			chk = chk + " or '" + current.first_name + "'";
+		}
+	
+	if(current.last_name)
+		{
+			gc_usr.addOrCondition('name',current.last_name);
+			
+			chk = chk + " or '" + current.last_name + "'";
+		}
+
+	
+
+
+usr.query();
+
+if (current.u_dpl !='') //loop denied parties listing
+	{
+		while (usr.next())
+			{
+				if (usr.country==current.u_dpl)
+				{
+
+				var gr2 = new GlideRecord('x_hgst2_denied_par_matched_listing');
+				var qc1 = gr2.addQuery('employee_id',current.employee_number);
+
+
+				gr2.query();
+
+				if (gr2.getRowCount() == 0)
+					{
+					var gr3 = new GlideRecord('x_hgst2_denied_par_matched_listing');
+					gr3.initialize();
+					gr3.employee_name=current.name;
+					gr3.employee_id = current.employee_number;
+					//gr3.job_title = current.title;
+
+
+					var locationID = current.location.getDisplayValue();
+					//var location = new GlideRecord('cmn_location');
+					//location.addQuery('sys_id',locationID);
+					//location.query()
+					//location.next
+					gr3.location = locationID;// location.getDisplayValue();
+
+					//gr3.location = usr.location;
+
+					var managerID = current.manager.getDisplayValue();
+			// 		var manager = new GlideRecord('sys_user');
+			// 		manager.addQuery('sys_id',managerID);
+			// 		manager.query()
+					//manager.next()
+					gr3.supervisor = managerID;
+			// 		manager.query(function(gr) {
+			// 			manager.next();
+			// 			gr3.supervisor = managerID; //manager.getDisplayValue();
+			// 		});
+
+					gr3.employee_country = current.u_dpl;
+					gr3.matched_by = "Matched By Name. " + chk;
+					gr3.dpl_name = usr.name;
+					gr3.dpl_street_1 = usr.street1;
+					gr3.dpl_street_2 = usr.street2;
+					gr3.dpl_city = usr.city;
+					gr3.dpl_state = usr.state;
+					gr3.dpl_country = usr.country;
+
+					gr3.insert();
+				}
+			break;
+			}
+			
+			}
+	}
+else //get the first found denied parties listing
+	{
+		usr.next();
+		if (usr.getRowCount()!=0)
+		{
+
+		var gr4 = new GlideRecord('x_hgst2_denied_par_matched_listing');
+		var qc2 = gr4.addQuery('employee_id',current.employee_number);
+
+
+		gr4.query();
+
+		if (gr4.getRowCount() == 0)
+			{
+			var gr5 = new GlideRecord('x_hgst2_denied_par_matched_listing');
+			gr5.initialize();
+			gr5.employee_name=current.name;
+			gr5.employee_id = current.employee_number;
+			//gr3.job_title = current.title;
+
+
+			var locationID1 = current.location.getDisplayValue();
+			//var location = new GlideRecord('cmn_location');
+			//location.addQuery('sys_id',locationID);
+			//location.query()
+			//location.next
+			gr5.location = locationID1;// location.getDisplayValue();
+
+			//gr3.location = usr.location;
+
+			var managerID1 = current.manager.getDisplayValue();
+	// 		var manager = new GlideRecord('sys_user');
+	// 		manager.addQuery('sys_id',managerID);
+	// 		manager.query()
+			//manager.next()
+			gr5.supervisor = managerID1;
+	// 		manager.query(function(gr) {
+	// 			manager.next();
+	// 			gr3.supervisor = managerID; //manager.getDisplayValue();
+	// 		});
+
+			gr5.employee_country = current.u_dpl;
+			gr5.matched_by = "Matched By Name. " + chk;
+			gr5.dpl_name = usr.name;
+			gr5.dpl_street_1 = usr.street1;
+			gr5.dpl_street_2 = usr.street2;
+			gr5.dpl_city = usr.city;
+			gr5.dpl_state = usr.state;
+			gr5.dpl_country = usr.country;
+
+			gr5.insert();
+		}
+	}
+	}
+
+
+	
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+        <sys_created_on>2017-07-19 06:37:07</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>6ffb26210f884740b64a00dce1050eb4</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Update Matched Listing - User Changed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Denied Party Screening System" source="x_hgst2_denied_par">b3ebdcd10fcc0740b64a00dce1050e08</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Denied Party Screening System">b3ebdcd10fcc0740b64a00dce1050e08</sys_scope>
+        <sys_update_name>sys_script_6ffb26210f884740b64a00dce1050eb4</sys_update_name>
+        <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+        <sys_updated_on>2017-07-19 07:19:13</sys_updated_on>
+        <template/>
+        <when>after</when>
+    </sys_script>
+</record_update>

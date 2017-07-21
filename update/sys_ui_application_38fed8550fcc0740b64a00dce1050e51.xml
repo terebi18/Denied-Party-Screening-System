@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Denied Parties Listing</name>
+        <order/>
+        <roles>x_hgst2_denied_par_denied_parties_listin</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+        <sys_created_on>2017-07-18 01:41:28</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>38fed8550fcc0740b64a00dce1050e51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Denied Parties Listing</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Denied Party Screening System" source="x_hgst2_denied_par">b3ebdcd10fcc0740b64a00dce1050e08</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Denied Party Screening System">b3ebdcd10fcc0740b64a00dce1050e08</sys_scope>
+        <sys_update_name>sys_ui_application_38fed8550fcc0740b64a00dce1050e51</sys_update_name>
+        <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+        <sys_updated_on>2017-07-18 01:41:28</sys_updated_on>
+    </sys_ui_application>
+</record_update>

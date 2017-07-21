@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <name>Denied Parties List Daily Screening - DPL</name>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2017-07-19 09:57:46</run_start>
+        <run_time>1969-12-31 16:01:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[var dpl = new GlideRecord('x_hgst2_denied_par_denied_parties_listing');
+
+dpl.query();
+while (dpl.next())
+	{
+
+		//check name	
+		var usr = new GlideRecord('sys_user');
+
+
+		var gc_usr = usr.addQuery('name',dpl.name);
+		gc_usr.addOrCondition('first_name',dpl.name);
+		gc_usr.addOrCondition('last_name',dpl.name);
+
+		usr.query();
+		while (usr.next())
+			{
+			if (dpl.country !='')
+			{
+				if (dpl.country == usr.u_dpl)
+				{
+					var gr2 = new GlideRecord('x_hgst2_denied_par_matched_listing');
+					var qc1 = gr2.addQuery('employee_id',usr.employee_number);
+
+					gr2.query();
+
+					if (gr2.getRowCount() == 0)
+						{
+						var gr3 = new GlideRecord('x_hgst2_denied_par_matched_listing');
+						gr3.initialize();
+						gr3.employee_name=usr.name;
+						gr3.employee_id = usr.employee_number;	
+						//gr3.job_title = usr.title;
+
+						var locationID = usr.location.getDisplayValue();
+
+						gr3.location = locationID;
+
+						var managerID = usr.manager.getDisplayValue();
+
+						gr3.supervisor = managerID;
+						gr3.employee_country = usr.u_dpl;
+
+						gr3.matched_by = "Matched By Name. '" + dpl.name + "'";
+						gr3.dpl_name = dpl.name;
+						gr3.dpl_street_1 = dpl.street1;
+						gr3.dpl_street_2 = dpl.street2;
+						gr3.dpl_city = dpl.city;
+						gr3.dpl_state = dpl.state;
+						gr3.dpl_country = dpl.country;
+
+						gr3.insert();
+					}
+				}
+			}
+			else //dpl.country is blank, treated as found
+				{
+				var gr4 = new GlideRecord('x_hgst2_denied_par_matched_listing');
+				var qc2 = gr4.addQuery('employee_id',usr.employee_number);
+
+				gr4.query();
+
+				if (gr4.getRowCount() == 0)
+					{
+					var gr5 = new GlideRecord('x_hgst2_denied_par_matched_listing');
+					gr5.initialize();
+					gr5.employee_name=usr.name;
+					gr5.employee_id = usr.employee_number;	
+					//gr5.job_title = usr.title;
+
+					var locationID1 = usr.location.getDisplayValue();
+
+					gr5.location = locationID1;
+
+					var managerID1 = usr.manager.getDisplayValue();
+
+					gr5.supervisor = managerID1;
+					gr5.employee_country = usr.u_dpl;
+
+					gr5.matched_by = "Matched By Name. '" + dpl.name + "'";
+					gr5.dpl_name = dpl.name;
+					gr5.dpl_street_1 = dpl.street1;
+					gr5.dpl_street_2 = dpl.street2;
+					gr5.dpl_city = dpl.city;
+					gr5.dpl_state = dpl.state;
+					gr5.dpl_country = dpl.country;
+
+					gr5.insert();
+				}
+				}
+		}
+	}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+        <sys_created_on>2017-07-19 10:03:55</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>182a57e90fc84740b64a00dce1050ee0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Denied Parties List Daily Screening - DPL</sys_name>
+        <sys_package display_value="Denied Party Screening System" source="x_hgst2_denied_par">b3ebdcd10fcc0740b64a00dce1050e08</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Denied Party Screening System">b3ebdcd10fcc0740b64a00dce1050e08</sys_scope>
+        <sys_update_name>sysauto_script_182a57e90fc84740b64a00dce1050ee0</sys_update_name>
+        <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+        <sys_updated_on>2017-07-19 10:04:21</sys_updated_on>
+        <u_clone_stop>false</u_clone_stop>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

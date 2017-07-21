@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <name>Denied Parties List Daily Screening - User</name>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2017-07-19 10:06:20</run_start>
+        <run_time>1969-12-31 16:30:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[var usr = new GlideRecord('sys_user');
+
+usr.query();
+while (usr.next())
+	{
+
+	var dpl = new GlideRecord('x_hgst2_denied_par_denied_parties_listing');
+	
+	
+	var gc_dpl = dpl.addQuery('name',usr.name);
+	
+	var chk = "";
+	
+	chk = "'" + usr.name + "'";
+	
+	if(usr.first_name)
+		{
+			gc_dpl.addOrCondition('name',usr.first_name);
+			
+			chk = chk + " or '" + usr.first_name + "'";
+		}
+	
+	if(usr.last_name)
+		{
+			gc_dpl.addOrCondition('name',usr.last_name);
+			
+			chk = chk + " or '" + usr.last_name + "'";
+		}
+
+	
+
+
+	dpl.query();
+
+	if (usr.u_dpl !='') //loop denied parties listing
+		{
+			while (dpl.next())
+				{
+					if (dpl.country==usr.u_dpl)
+					{
+
+					var gr2 = new GlideRecord('x_hgst2_denied_par_matched_listing');
+					var qc1 = gr2.addQuery('employee_id',usr.employee_number);
+
+
+					gr2.query();
+
+					if (gr2.getRowCount() == 0)
+						{
+						var gr3 = new GlideRecord('x_hgst2_denied_par_matched_listing');
+						gr3.initialize();
+						gr3.employee_name=usr.name;
+						gr3.employee_id = usr.employee_number;
+						//gr3.job_title = usr.title;
+
+
+						var locationID = usr.location.getDisplayValue();
+						//var location = new GlideRecord('cmn_location');
+						//location.addQuery('sys_id',locationID);
+						//location.query()
+						//location.next
+						gr3.location = locationID;// location.getDisplayValue();
+
+						//gr3.location = dpl.location;
+
+						var managerID = usr.manager.getDisplayValue();
+				// 		var manager = new GlideRecord('sys_user');
+				// 		manager.addQuery('sys_id',managerID);
+				// 		manager.query()
+						//manager.next()
+						gr3.supervisor = managerID;
+				// 		manager.query(function(gr) {
+				// 			manager.next();
+				// 			gr3.supervisor = managerID; //manager.getDisplayValue();
+				// 		});
+
+						gr3.employee_country = usr.u_dpl;
+						gr3.matched_by = "Matched By Name. " + chk;
+						gr3.dpl_name = dpl.name;
+						gr3.dpl_street_1 = dpl.street1;
+						gr3.dpl_street_2 = dpl.street2;
+						gr3.dpl_city = dpl.city;
+						gr3.dpl_state = dpl.state;
+						gr3.dpl_country = dpl.country;
+
+						gr3.insert();
+					}
+				break;
+				}
+
+				}
+		}
+	else //get the first found denied parties listing
+		{
+			dpl.next();
+			if (dpl.getRowCount()!=0)
+			{
+
+			var gr4 = new GlideRecord('x_hgst2_denied_par_matched_listing');
+			var qc2 = gr4.addQuery('employee_id',usr.employee_number);
+
+
+			gr4.query();
+
+			if (gr4.getRowCount() == 0)
+				{
+				var gr5 = new GlideRecord('x_hgst2_denied_par_matched_listing');
+				gr5.initialize();
+				gr5.employee_name=usr.name;
+				gr5.employee_id = usr.employee_number;
+				//gr3.job_title = usr.title;
+
+
+				var locationID1 = usr.location.getDisplayValue();
+				//var location = new GlideRecord('cmn_location');
+				//location.addQuery('sys_id',locationID);
+				//location.query()
+				//location.next
+				gr5.location = locationID1;// location.getDisplayValue();
+
+				//gr3.location = dpl.location;
+
+				var managerID1 = usr.manager.getDisplayValue();
+		// 		var manager = new GlideRecord('sys_user');
+		// 		manager.addQuery('sys_id',managerID);
+		// 		manager.query()
+				//manager.next()
+				gr5.supervisor = managerID1;
+		// 		manager.query(function(gr) {
+		// 			manager.next();
+		// 			gr3.supervisor = managerID; //manager.getDisplayValue();
+		// 		});
+
+				gr5.employee_country = usr.u_dpl;
+				gr5.matched_by = "Matched By Name. " + chk;
+				gr5.dpl_name = dpl.name;
+				gr5.dpl_street_1 = dpl.street1;
+				gr5.dpl_street_2 = dpl.street2;
+				gr5.dpl_city = dpl.city;
+				gr5.dpl_state = dpl.state;
+				gr5.dpl_country = dpl.country;
+
+				gr5.insert();
+			}
+		}
+		}
+	}		]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>KimBoon.Ong@mmy.asia.wdc.com</sys_created_by>
+        <sys_created_on>2017-07-19 10:13:30</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>061c1f2d0fc84740b64a00dce1050eef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Denied Parties List Daily Screening - User</sys_name>
+        <sys_package display_value="Denied Party Screening System" source="x_hgst2_denied_par">b3ebdcd10fcc0740b64a00dce1050e08</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Denied Party Screening System">b3ebdcd10fcc0740b64a00dce1050e08</sys_scope>
+        <sys_update_name>sysauto_script_061c1f2d0fc84740b64a00dce1050eef</sys_update_name>
+        <sys_updated_by>KimBoon.Ong@mmy.asia.wdc.com</sys_updated_by>
+        <sys_updated_on>2017-07-19 10:13:30</sys_updated_on>
+        <u_clone_stop>false</u_clone_stop>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>
